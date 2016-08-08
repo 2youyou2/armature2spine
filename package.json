@@ -1,0 +1,13 @@
+{
+  "name": "armature2spine",
+  "version": "0.0.1",
+  "description": "convert 1.3 armature to 3.4 spine",
+  "author": "2youyou2",
+  "repository": "https://github.com/2youyou2/armature2spine",
+  "dependencies": {
+    "fire-fs": "0.2.4",
+    "fire-path": "0.1.9",
+    "globby": "2.1.0",
+    "yargs": "4.3.1"
+  }
+}
